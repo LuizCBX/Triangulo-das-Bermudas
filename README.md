@@ -17,6 +17,6 @@
 • Link do vídeo do robô desenhando -> Instagram = https://www.instagram.com/luiz_henrique02_/
 
 • De acordo com nossa própria avaliação decidimos referenciar as seguintes notas para os alunos:
-NOTA: Luiz Henrique Silva = A
-NOTA: Gustavo Braga = A
-NOTA: Nicolas Araujo = A
+NOTA: Luiz Henrique Silva = A,
+NOTA: Gustavo Braga = A,
+NOTA: Nicolas Araujo = A.
